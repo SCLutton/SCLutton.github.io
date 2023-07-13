@@ -23,6 +23,7 @@ Before we get started, let's just preface this with most, if not all, of this in
 - [Networking the Printer](https://wiki.bambulab.com/en/x1/manual/setup-for-first-print)
 - [Drying Filament](https://wiki.bambulab.com/en/general/bambu-filament-drying-cover)
 - Recording/Saving Time Lapses
+    - The bambu will by default save time lapses to an SD in the printer
 - [The Slicing Software](https://wiki.bambulab.com/en/software/bambu-studio/studio-pages-outline)
     - [Download Link](https://slicingsoftware.bambulab.com)
     - [Paint Tool](https://wiki.bambulab.com/en/software/bambu-studio/color-painting-tool)
